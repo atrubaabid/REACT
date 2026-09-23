@@ -52,7 +52,7 @@ for run the file in terminal
 
 -------------------------------------------------------------------------------------------------------------------
 
-<h3>Prerequisites for Learning React</h3>
+<h3>3. Prerequisites for Learning React</h3>
 
 <ul>
 <li>HTML</li>
@@ -65,6 +65,43 @@ for run the file in terminal
 
 
 -------------------------------------------------------------------------------------------------------------------
+
+
+<h3>4. REACT Installation & Setup</h3>
+
+<p>
+you need to download Node.js
+
+In NODE.js we have:
+<ul>
+<li>npm (Node Package Manager)  => USE: when you need to download anything in your system</li>
+<li>npx (Node Package Execute)  => USE: when you need to download anything in just on your working folder</li>
+</ul>
+
+after download node check this commands in your cmd for confirmation:
+<ul>
+<li>node -v  =>  for check version</li>
+<li>npm -v   =>  for check version</li>
+<li>npx -v   =>  for check version</li>
+</ul>
+
+Through npx => create your project
+<ul>
+<li>npx create-react-app firstproject  ->  for install react in folder</li>
+<li>cd firstproject ->  for enter the folder</li>
+<li>npm start  ->  create the local host and run the website</li>
+<li>ctrl + C  ->   for stop terminal</li>
+<li></li>
+</ul>
+
+
+</p>
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+
 
 
 
