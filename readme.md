@@ -7,11 +7,12 @@
 Normal HTML mein agar aapko website par Navbar, Product Card, Button, Footer baar-baar use karna ho, to code repeat ho sakta hai.
 
 React mein aap:
-
-Navbar → Component
-Product Card → Component
-Button → Component
-Footer → Component
+<ul>
+<li>Navbar → Component</li>
+<li>Product Card → Component</li>
+<li>Button → Component</li>
+<li>Footer → Component</li>
+</ul>
 
 bana kar unhein multiple places par reuse kar sakti ho 
 
