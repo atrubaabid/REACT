@@ -91,14 +91,45 @@ Through npx => create your project
 <li>cd firstproject ->  for enter the folder</li>
 <li>npm start  ->  create the local host and run the website</li>
 <li>ctrl + C  ->   for stop terminal</li>
-<li></li>
-</ul>
-
-
-</p>
+<li>cls   ->   for clear screen of cmd</li>
+</ul></p>
 
 
 -------------------------------------------------------------------------------------------------------------------
+
+
+<h3>5. Directory Structure of React App </h3>
+
+<ol>
+File/Folder   -------------------------	Easy Meaning
+<li>node_modules  ---------------------	Installed packages</li>
+<li>public  ---------------------------	Static/public files</li>
+<li>favicon.ico  ---------------------- 🌐 Browser tab ka small icon</li>
+<li>public/index.html  ----------------	Main HTML template + root</li>
+<li>logo192.png ----------------------- 192×192 app/PWA icon</li>
+<li>logo512.png  ---------------------- 512×512 app/PWA icon</li>
+<li>manifest.json --------------------- 📱 Web app ki identity/settings</li>
+<li>robots.txt ------------------------ 🤖 Search engine crawlers ke instructions</li>
+<li>src  ------------------------------	⭐ Actual React coding</li>
+<li>src/index.js  ---------------------	⭐ React app ka entry point</li>
+<li>src/App.js  -----------------------	⭐ Main React component</li>
+<li>App.css  --------------------------	App ki CSS</li>
+<li>index.css  ------------------------	Global CSS</li>
+<li>App.test.js  ----------------------	Testing</li>
+<li>setupTests.js  --------------------	Testing setup</li>
+<li>reportWebVitals.js  ---------------	Performance checking</li>
+<li>logo.svg  -------------------------	Default React logo</li>
+<li>.gitignore	  --------------------- Git ko files ignore karne ke liye</li>
+<li>package.json ----------------------  ⭐ Dependencies + npm commands</li>
+<li>package-lock.json  ----------------	Exact package versions</li>
+<li>README.md  ------------------------	Project documentation</li>
+</ol>
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+
 
 
 
