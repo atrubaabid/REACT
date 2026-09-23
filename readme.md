@@ -28,7 +28,7 @@ MPA (Multi Page Application) → Har new page/request par naya page load hota ha
 <h3> 2. JS MODULE | DEFAULT & NAME EXPORT | IMPORTANT CONCEPT</h3>
 <p>JS MODULE  =>  (export) (import)
 
-<ol><li><b>[now we learn import export logic with simple JS, first you need to open cmd in your woring folder]</b>
+<ol><li><b>Now we learn import export logic with simple JS, first you need to open cmd in your woring folder</b>
 
 🛠️mkdir createmodule → createmodule naam ka new folder/directory create karega.
 
@@ -36,7 +36,7 @@ MPA (Multi Page Application) → Har new page/request par naya page load hota ha
 
  code . → Current folder ko VS Code mein open karega. 💻 </li>
 
-<li><b>[now in open folder in vs code open terminal and use this commands] </b>
+<li><b>now in open folder in vs code open terminal and use this commands</b>
 
 npm init -y 📦 →  Project ke liye automatically package.json file create karega. (in this file write this after main tag ("type":"module"))
 
@@ -46,8 +46,8 @@ then make an calculator.js file  → for export
 then watch (createmodule) folder  →  for import export understanding
 
 for run the file in terminal
-node index.js  =>  run only one time
-nodemon index.js  =>  automatic run every change </li></ol></p>
+<li>node index.js  =>  run only one time</li>
+<li>nodemon index.js  =>  automatic run every change</li></li></ol></p>
 
 
   ------
