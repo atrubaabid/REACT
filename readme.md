@@ -34,7 +34,7 @@ MPA (Multi Page Application) → Har new page/request par naya page load hota ha
 
 📁cd createmodule → createmodule folder ke andar chala jayega. 
 
- code . → Current folder ko VS Code mein open karega. 💻 </li>
+💻code . → Current folder ko VS Code mein open karega.  </li>
 
 <li><b>Now in open folder in vs code open terminal and use this commands</b>
 
@@ -50,7 +50,7 @@ for run the file in terminal
 <li>nodemon index.js  =>  automatic run every change</li></ul></li></ol></p>
 
 
-  ------
+------
 
 
 
