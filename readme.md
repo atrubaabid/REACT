@@ -22,7 +22,7 @@ SPA (Single Page Application) → Puri website ek hi page par dynamically conten
 MPA (Multi Page Application) → Har new page/request par naya page load hota hai.</p>
 
 
-------
+-------------------------------------------------------------------------------------------------------------------
 
 
 <h3> 2. JS MODULE | DEFAULT & NAME EXPORT | IMPORTANT CONCEPT</h3>
@@ -50,7 +50,8 @@ for run the file in terminal
 <li>nodemon index.js  =>  automatic run every change</li></ul></li></ol></p>
 
 
-------
+-------------------------------------------------------------------------------------------------------------------
+
 
 
 
