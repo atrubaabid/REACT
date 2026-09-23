@@ -4,21 +4,21 @@
 
 <p>React.js → JavaScript ki library hai jo fast aur interactive websites/web apps banane ke liye use hoti hai.
 
-    Normal HTML mein agar aapko website par Navbar, Product Card, Button, Footer baar-baar use karna ho, to code repeat ho sakta hai.
+Normal HTML mein agar aapko website par Navbar, Product Card, Button, Footer baar-baar use karna ho, to code repeat ho sakta hai.
 
-    React mein aap:
+React mein aap:
 
-    Navbar → Component
-    Product Card → Component
-    Button → Component
-    Footer → Component
+Navbar → Component
+Product Card → Component
+Button → Component
+Footer → Component
 
-    bana kar unhein multiple places par reuse kar sakti ho 
+bana kar unhein multiple places par reuse kar sakti ho 
 
-    SPA (Single Page Application) → Puri website ek hi page par dynamically content change karti hai, page reload nahi hota. (react working on this)
+SPA (Single Page Application) → Puri website ek hi page par dynamically content change karti hai, page reload nahi hota. (react working on this)
 
 
-    MPA (Multi Page Application) → Har new page/request par naya page load hota hai.</p>
+MPA (Multi Page Application) → Har new page/request par naya page load hota hai.</p>
 
 
   ------
