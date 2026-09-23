@@ -36,18 +36,18 @@ MPA (Multi Page Application) → Har new page/request par naya page load hota ha
 
  code . → Current folder ko VS Code mein open karega. 💻 </li>
 
-<li><b>now in open folder in vs code open terminal and use this commands</b>
+<li><b>Now in open folder in vs code open terminal and use this commands</b>
 
 npm init -y 📦 →  Project ke liye automatically package.json file create karega. (in this file write this after main tag ("type":"module"))
 
-then make an index.js file  → for import
+then make an index.js file  → for import <br>
 then make an calculator.js file  → for export
 
 then watch (createmodule) folder  →  for import export understanding
 
 for run the file in terminal
-<li>node index.js  =>  run only one time</li>
-<li>nodemon index.js  =>  automatic run every change</li></li></ol></p>
+<ul><li>node index.js  =>  run only one time</li>
+<li>nodemon index.js  =>  automatic run every change</li></ul></li></ol></p>
 
 
   ------
