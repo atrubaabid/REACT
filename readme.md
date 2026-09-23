@@ -15,10 +15,10 @@
 
     bana kar unhein multiple places par reuse kar sakti ho 
 
-  SPA (Single Page Application) → Puri website ek hi page par dynamically content change karti hai, page reload nahi hota. (react working on this)
+    SPA (Single Page Application) → Puri website ek hi page par dynamically content change karti hai, page reload nahi hota. (react working on this)
 
 
-  MPA (Multi Page Application) → Har new page/request par naya page load hota hai.</p>
+    MPA (Multi Page Application) → Har new page/request par naya page load hota hai.</p>
 
 
   ------
