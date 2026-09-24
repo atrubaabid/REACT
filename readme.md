@@ -1,6 +1,6 @@
 <h1>REACT COMPLETE</h1>
 
-<h3>1.WHAT IS REACT?</h3>
+<h3>1. WHAT IS REACT?</h3>
 
 <p>React.js → JavaScript ki library hai jo fast aur interactive websites/web apps banane ke liye use hoti hai.
 
@@ -128,6 +128,23 @@ File/Folder   -------------------------	Easy Meaning
 
 -------------------------------------------------------------------------------------------------------------------
 
+<h3>6. Understanding JSX</h3>
+
+<p>
+React work with 4 files
+<ul>
+<li>.js file  ->  javascript file</li>
+<li>.jsx file  ->  javascript + XML file  ->  we can use 'html' between 'javascript' in that file</li>
+<li>.ts file  ->  typescript file</li>
+<li>.tsx file  ->  typescript + XML file  ->   we can use 'html' between 'typescript'  in that file</li>
+</ul>
+
+<h5>in App.js file</h5>
+.html
+<code>let name = "syeda Atruba"    ->     <h1> {name} </h1></code>
+.css
+<code>let name = "syeda Atruba"    ->     h1 {name} /h1</code>
+</p>
 
 
 
