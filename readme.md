@@ -144,6 +144,22 @@ React work with 4 files
 
 -------------------------------------------------------------------------------------------------------------------
 
+<h3>7. React Components</h3>
+
+-> Component = Website ka ek chhota part. 🧩
+
+### Example:
+
+- Navbar     → Component
+- Button     → Component
+- Card       → Component
+- Footer     → Component
+
+Har component ko alag bana kar baar baar use kar sakte ho.
+
+
+
+
 
 
 
