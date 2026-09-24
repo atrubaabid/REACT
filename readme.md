@@ -157,11 +157,11 @@ Component = reusable part of a React website.
 
 Har component ko alag bana kar baar baar use kar sakte ho.
 
-- 1. Method
-you need to make component file in src folder like Header.jsx and then after completion your code you can import it in your App.js file (for all the procedure you can see firstproject folder)
+1. Method
+- you need to make component file in src folder like Header.jsx and then after completion your code you can import it in your App.js file (for all the procedure you can see firstproject folder)
 
-- 2. Method
-you can make component in your App.js file after the (export deafault app) and use it as a tag
+2. Method
+- you can make component in your App.js file after the (export deafault app) and use it as a tag
 
 
 -------------------------------------------------------------------------------------------------------------------
