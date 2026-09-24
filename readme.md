@@ -140,12 +140,12 @@ React work with 4 files
 </ul>
 
 <h5>in App.js file</h5>
-.html
-```react
-let name = "syeda Atruba"    ->     <h1> {name} </h1>
-.css
-```react
-let name = "syeda Atruba"    ->     <h1> {name} </h1>
+<p>html</p>
+  ```react
+   let name = "syeda Atruba"    ->     <h1> {name} </h1>
+<p>css</p>
+   ```react
+   let name = "syeda Atruba"    ->     <h1> {name} </h1>
 </p>
 
 
