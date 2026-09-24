@@ -141,9 +141,11 @@ React work with 4 files
 
 <h5>in App.js file</h5>
 .html
-<pre><code>let name = "syeda Atruba"    ->     <h1> {name} </h1></code></pre>
+```react
+let name = "syeda Atruba"    ->     <h1> {name} </h1>
 .css
-<pre><code>let name = "syeda Atruba"    ->     h1 {name} /h1</code></pre>
+```react
+let name = "syeda Atruba"    ->     <h1> {name} </h1>
 </p>
 
 
