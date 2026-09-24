@@ -139,17 +139,15 @@ React work with 4 files
 <li>.tsx file  ->  typescript + XML file  ->   we can use 'html' between 'typescript'  in that file</li>
 </ul>
 
-<h5>in App.js file</h5>
+<h5>for understanding how we can write html and css in javascript file watch firstproject/src/app.js file</h5>
 
-<p>html</p>
-  ```jsx 
-  let name = "syeda Atruba"    ->     <h1> {name} </h1>
-  ```
-<p>css</p>
-   ```jsx 
-   let name = "syeda Atruba"    ->     <h1> {name} </h1>
-   ```
-</p>
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
 
 
 
