@@ -146,7 +146,7 @@ React work with 4 files
 
 <h3>7. React Components</h3>
 
--> Component = Website ka ek chhota part. 🧩
+Component = reusable part of a React website.
 
 ### Example:
 
@@ -156,6 +156,9 @@ React work with 4 files
 - Footer     → Component
 
 Har component ko alag bana kar baar baar use kar sakte ho.
+
+-------------------------------------------------------------------------------------------------------------------
+
 
 
 
